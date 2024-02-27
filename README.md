@@ -1,4 +1,4 @@
-I am Professor in the [Department of Computer Science](https://dcc.ufmg.br) at [UFMG](https://ufmg.br), Brazil. I am a member of the [ASERG](http://aserg.labsoft.dcc.ufmg.br) lab. Research interests: software evolution, software testing, software repository mining, software quality, and empirical software engineering.
+I am Professor in the [Department of Computer Science](https://dcc.ufmg.br) at [UFMG](https://ufmg.br), Brazil. I am a member of the [Applied Software Engineering Research Group (ASERG)](http://aserg.labsoft.dcc.ufmg.br) lab. Research interests: software evolution, software testing, software repository mining, software quality, and empirical software engineering.
 
 **Contact:** andrehora [at] dcc [dot] ufmg [dot] br
 
