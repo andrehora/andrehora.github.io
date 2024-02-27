@@ -1,11 +1,11 @@
-I am Professor in the Department of Computer Science at UFMG, Brazil. I am a member of the ASERG lab. Research interests: software evolution, software testing, software repository mining, software quality, and empirical software engineering.
+I am Professor in the [Department of Computer Science](https://dcc.ufmg.br) at [UFMG](https://ufmg.br), Brazil. I am a member of the [ASERG](http://aserg.labsoft.dcc.ufmg.br) lab. Research interests: software evolution, software testing, software repository mining, software quality, and empirical software engineering.
 
 **Contact:** andrehora [at] dcc [dot] ufmg [dot] br
 
 **See also:** [Google Scholar](https://scholar.google.com.br/citations?user=2fwfYtQAAAAJ&hl=en) • [CSIndexbr](https://csindexbr.org/authors.html?p=Andre-Hora) • [Research Gate](https://www.researchgate.net/profile/Andre_Hora) • [DBLP](http://dblp.uni-trier.de/pers/hd/h/Hora:Andr=eacute=_C=) • [Lattes](http://lattes.cnpq.br/4957418183504876)
 
 
-**Short Bio:** I received my PhD in Computer Science from the University of Lille / Inria, France. I was a Postdoctoral researcher at the ASERG/UFMG group. I was also a software developer at Inria, Lille, France and a research intern at Siemens, Erlangen, Germany.
+**Short Bio:** I received my PhD in Computer Science from the [University of Lille](https://www.univ-lille.fr), France. I was a Postdoctoral researcher at the [ASERG](http://aserg.labsoft.dcc.ufmg.br) group. I was also a software developer at Inria, Lille, France and a research intern at Siemens, Erlangen, Germany.
 
 ## News
 
