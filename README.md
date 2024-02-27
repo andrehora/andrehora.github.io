@@ -96,3 +96,16 @@ I am Professor in the Department of Computer Science at UFMG, Brazil. I am a mem
 - Sep, 2015: Attending ICSME 2015 in Bremen, Germany
 - Jun, 2015: 2 papers accepted - ICSME 2015
 - Feb, 2015: Started - ASERG/DCC/UFMG as a PostDoc/CNPq
+
+## Program Committee
+
+-
+-
+-
+
+## Journal Reviewer
+
+-
+-
+-
+
