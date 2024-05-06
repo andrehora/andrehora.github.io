@@ -1,12 +1,17 @@
 ## News
 
-- Mar, 2024, PC Member - ECOOP/ISSTA 2024 - Tool Demonstrations Track
+- Apr, 2024, Paper accepted - FSE 2024, Ideas, Visions and Reflections Track: Test Polarity: Detecting Positive and Negative Tests
+- Apr, 2024, Paper accepted - FSE 2024, Ideas, Visions and Reflections Track: Monitoring the Execution of 14K Tests: Methods Tend to Have One
+  Path that Is Significantly More Executed
+- Apr, 2024, Paper accepted - FSE 2024, Ideas, Visions and Reflections Track: Predicting Test Results without Execution
+- Apr, 2024, Paper accepted - FSE 2024, Demonstrations Track, Exploring Tested Paths to Discover Missing Tests
+- Mar, 2024, PC Member - ECOOP/ISSTA 2024, Tool Demonstrations Track
 - Jan, 2024, Paper accepted - ICSE 2024 - Demonstrations Track: SpotFlow: Tracking Method Calls and States at Runtime
 - Jan, 2024, Paper accepted - MSR 2024: Availability and Usage of Platform-Specific APIs: A First
   Empirical Study
 - Jan, 2024, Paper accepted - MSR 2024 - Data and Tools Showcase Track: TestDossier: A Dataset of Tested Values Automatically Extracted
   from Test Execution
-- Jul, 2023: PC Member - SANER 2024 - ERA Track
+- Jul, 2023: PC Member - SANER 2024, ERA Track
 - Jun, 2023: PC Member - MSR 2024
 - Feb, 2023: Bolsa de Produtividade em Pesquisa (CNPq/PQ) accepted
 - Jan, 2023: Paper accepted - IEEE Software: On the Usage of New JavaScript Features through Transpilers: The Babel Case
@@ -16,7 +21,7 @@
 - Mar, 2022: Paper accepted - Empirical Software Engineering: How and Why We End Up with Complex Methods: A Multi-Language Study
 - Mar, 2022: Paper accepted - MSR 2022: Characterizing High-Quality Test Methods: A First Empirical Study
 - Jan, 2022: Paper accepted - SANER 2022: How and Why Developers Migrate Python Tests
-- Jan, 2022: Paper accepted - SANER 2022 - ERA Track: Exploring API Deprecation Evolution in JavaScript
+- Jan, 2022: Paper accepted - SANER 2022, ERA Track: Exploring API Deprecation Evolution in JavaScript
 - Nov, 2021: Paper accepted - Journal of Systems and Software: How Are Framework Code Samples Maintained and Used by Developers? The Case of Android and Spring Boot
 - Sep, 2021: Journal online - IEEE Software: JavaScript API Deprecation Landscape: A Survey and Mining Study
 - Sep, 2021: Journal online - Empirical Software Engineering: Characterizing Refactoring Graphs in Java and JavaScript Projects
