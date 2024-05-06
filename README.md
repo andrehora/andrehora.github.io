@@ -2,17 +2,23 @@
   <img src="/andre-hora.png" alt="Andre Hora" style="height:250px; width:250px;"/>
 </p>
 
-I am Professor in the [Department of Computer Science](https://dcc.ufmg.br) at [UFMG](https://ufmg.br), Brazil. I am a member of the [Applied Software Engineering Research Group (ASERG)](http://aserg.labsoft.dcc.ufmg.br) lab. Research interests: software evolution, software testing, software repository mining, software quality, and empirical software engineering.
+I am professor in the [Department of Computer Science](https://dcc.ufmg.br) at [UFMG](https://ufmg.br), Brazil. I am a member of the [Applied Software Engineering Research Group (ASERG)](http://aserg.labsoft.dcc.ufmg.br) lab. Research interests: Software Evolution, Software Maintenance, Software Testing, Mining Software Repositories.
 
 **Contact:** andrehora [at] dcc [dot] ufmg [dot] br
 
 **See also:** [Google Scholar](https://scholar.google.com.br/citations?user=2fwfYtQAAAAJ&hl=en) • [CSIndexbr](https://csindexbr.org/authors.html?p=Andre-Hora) • [Research Gate](https://www.researchgate.net/profile/Andre_Hora) • [DBLP](http://dblp.uni-trier.de/pers/hd/h/Hora:Andr=eacute=_C=) • [Lattes](http://lattes.cnpq.br/4957418183504876)
 
 
-**Short Bio:** I received my PhD in Computer Science from the [University of Lille](https://www.univ-lille.fr), France. I was a Postdoctoral researcher at the [ASERG](http://aserg.labsoft.dcc.ufmg.br) group. I was also a software developer at Inria, Lille, France and a research intern at Siemens, Erlangen, Germany.
+**Short Bio:** I received my PhD in Computer Science from the [University of Lille](https://www.univ-lille.fr), France. I was a Postdoctoral researcher at the [ASERG](http://aserg.labsoft.dcc.ufmg.br) group. I was also a software developer at Inria (Lille, France) and a research intern at Siemens (Erlangen, Germany).
 
 ## News
 
+- Mar, 2024, PC Member - ECOOP/ISSTA - Tool Demonstrations Track
+- Jan, 2024, Paper accepted - ICSE 2024 - Demonstrations Track: SpotFlow: Tracking Method Calls and States at Runtime
+- Jan, 2024, Paper accepted - MSR 2024: Availability and Usage of Platform-Specific APIs: A First
+  Empirical Study
+- Jan, 2024, Paper accepted - MSR 2024 - Data and Tools Showcase Track: TestDossier: A Dataset of Tested Values Automatically Extracted
+  from Test Execution
 - Jul, 2023: PC Member - SANER 2024 - ERA Track
 - Jun, 2023: PC Member - MSR 2024
 - Feb, 2023: Bolsa de Produtividade em Pesquisa (CNPq/PQ) accepted
