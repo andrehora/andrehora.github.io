@@ -4,7 +4,7 @@
 
 I am professor in the [Department of Computer Science](https://dcc.ufmg.br) at [UFMG](https://ufmg.br), Brazil. I am a member of the [Applied Software Engineering Research Group (ASERG)](http://aserg.labsoft.dcc.ufmg.br) lab. I received my PhD in Computer Science from the [University of Lille](https://www.univ-lille.fr), France. I was a Postdoctoral researcher at the [ASERG](http://aserg.labsoft.dcc.ufmg.br) group. I was also a software developer at Inria (Lille, France) and a research intern at Siemens (Erlangen, Germany).
 
-**Research Interests**: Software Evolution, Software Maintenance, Software Testing, Mining Software Repositories.
+**Research Interests**: Software Evolution, Software Maintenance, Software Testing, Mining Software Repositories
 
 **Contact:** andrehora [at] dcc [dot] ufmg [dot] br
 
