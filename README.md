@@ -42,18 +42,51 @@ I am professor in the [Department of Computer Science](https://dcc.ufmg.br) at [
 - Mar, 2021: Paper accepted - MSR 2021: Googling for Software Development: What Developers Search For and What They Find
 - Mar, 2021: Paper accepted - MSR 2021: What Code Is Deliberately Excluded from Test Coverage and Why?
 - Feb, 2021: PC Member - ICSME 2021
-- Feb, 2021: PC Member - SBES 2021
-- Jan, 2021: Teste de Software - Curso de Extensão a Distância
 
 ## Program Committee
 
--
--
--
+- ISSTA/ECOOP 2024, Tool Demonstrations Track, Vienna, Austria
+- 21th IEEE/ACM International Conference on Mining Software Repositories (MSR 2024), Lisbon, Portugal
+- 31th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2024) - ERA Track, Rovaniemi, Finland
+- 19th IEEE/ACM International Conference on Mining Software Repositories (MSR 2022), Pittsburgh, USA
+- 9th Workshop on Software Visualization, Evolution and Maintenance (VEM 2021), online
+- 37th IEEE International Conference on Software Maintenance and Evolution (ICSME 2021), Luxembourg City, Luxembourg
+- 18th IEEE/ACM International Conference on Mining Software Repositories (MSR 2021), Madrid, Spain
+- 35th Brazilian Symposium on Software Engineering (SBES 2021), Joinville, Brazil
+- 36th IEEE International Conference on Software Maintenance and Evolution (ICSME 2020), Adelaide, Australia
+- 20th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM 2020) - Engineering Track, Adelaide, Australia
+- 8th Workshop on Software Visualization, Evolution and Maintenance (VEM 2020), Natal, Brazil
+- SBES 2020 - Innovative Ideas and Emerging Results Track (SBES 2020), Natal, Brazil
+- 8th Workshop on Thesis and Dissertations of CBSoft (WTDSoft 2020), Natal, Brazil
+- 28th International Conference on Program Comprehension (ICPC 2020) - Tool Track, Seoul, South Korea
+- 19th International Conference on Software and Systems Reuse (ICSR 2020), Hammamet, Tunisia
+- 17th IEEE/ACM International Conference on Mining Software Repositories (MSR 2020), Seoul, South Korea
+- 27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020) - ERA Track, London, Canada
+- 23rd Ibero-American Conference on Software Engineering (CIbSE 2020), Curitiba, Brazil
+- 35th IEEE International Conference on Software Maintenance and Evolution (ICSME 2019) - Short Papers Track, Cleveland, USA
+- 19th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM 2019) - Engineering Track, Cleveland, USA
+- 12th Seminar on Advanced Techniques & Tools for Software Evolution (SATToSE 2019), Bolzano, Italy
+- 26th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2019) - ERA Track, Hangzhou, China
+- International Workshop on Smalltalk Technologies (IWST 2019), Cologne, Germany
+- 7th Workshop on Thesis and Dissertations of CBSoft (WTDSoft 2019), Salvador, Brazil
+- 10th Brazilian Conference on Software: Theory and Practice (Tool Track 2019), Salvador, Brazil
+- 7th Workshop on Software Visualization, Evolution and Maintenance (VEM 2019), Salvador, Brazil
+- 34th IEEE International Conference on Software Maintenance and Evolution (ICSME 2018), Madrid, Spain
+- 34th IEEE International Conference on Software Maintenance and Evolution (ICSME 2018) - Artifacts Track, Madrid, Spain
+- 5th Workshop on Software Visualization, Evolution and Maintenance (VEM 2017), Fortaleza, Brazil
+- 6th Workshop on Software Visualization, Evolution and Maintenance (VEM 2018), São Carlos, Brazil
+- 8th Workshop on Thesis and Dissertations of CBSoft (WTDSoft 2018), São Carlos, Brazil
+- 10th Seminar on Advanced Techniques & Tools for Software Evolution (SATToSE 2017), Madrid, Spain
+- 7th Workshop on Thesis and Dissertations of CBSoft (WTDSoft 2017), Fortaleza, Brazil
+- 4th Workshop on Software Visualization, Evolution and Maintenance (VEM 2016), Maringá, Brazil
 
 ## Journal Reviewer
 
--
--
--
+- ACM Transactions on Software Engineering and Methodology (TOSEM) - since 2023
+- Journal of Systems and Software (JSS) - since 2018
+- IEEE Transactions on Software Engineering (TSE) - since 2016
+- Empirical Software Engineering (EMSE) - since 2016
+- Information and Software Technology (IST) - since 2015
+- Journal of Software Engineering Research and Development (JSERD) - since 2015
+- Software Quality Journal (SQJ) - since 2014
 
