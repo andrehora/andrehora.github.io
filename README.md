@@ -2,9 +2,11 @@
   <img src="/andre-hora.png" alt="Andre Hora" style="height:250px; width:250px;"/>
 </p>
 
-I am professor in the [Department of Computer Science](https://dcc.ufmg.br) at [UFMG](https://ufmg.br), Brazil. I am a member of the [Applied Software Engineering Research Group (ASERG)](http://aserg.labsoft.dcc.ufmg.br) lab. 
-
-**Short Bio**:I received my PhD in Computer Science from the [University of Lille](https://www.univ-lille.fr), France. I was a Postdoctoral researcher at the [ASERG](http://aserg.labsoft.dcc.ufmg.br) group. I was also a software developer at Inria (Lille, France) and a research intern at Siemens (Erlangen, Germany).
+I am professor in the [Department of Computer Science](https://dcc.ufmg.br) at [UFMG](https://ufmg.br), Brazil.
+I am a member of the [Applied Software Engineering Research Group (ASERG)](http://aserg.labsoft.dcc.ufmg.br) lab. 
+I received my PhD in Computer Science from the [University of Lille](https://www.univ-lille.fr), France.
+I was a Postdoctoral researcher at the [ASERG](http://aserg.labsoft.dcc.ufmg.br) group.
+I was also a software developer at [Inria](https://www.inria.fr/en) (Lille, France) and a research intern at Siemens (Erlangen, Germany).
 
 **Research Interests**: Software Evolution, Software Maintenance, Software Testing, Mining Software Repositories
 
