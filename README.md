@@ -8,7 +8,7 @@ I received my PhD in Computer Science from the [University of Lille](https://www
 I was a Postdoctoral researcher at the [ASERG](http://aserg.labsoft.dcc.ufmg.br) group.
 I was also a software developer at [Inria](https://www.inria.fr/en) (Lille, France) and a research intern at Siemens (Erlangen, Germany).
 
-**Research Interests**: Software Evolution, Software Maintenance, Software Testing, Mining Software Repositories
+**Research interests**: Software Evolution, Software Maintenance, Software Testing, Mining Software Repositories
 
 **Contact:** andrehora [at] dcc [dot] ufmg [dot] br
 
