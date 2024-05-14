@@ -20,7 +20,7 @@ I was also a software developer at [Inria](https://www.inria.fr/en) (Lille, Fran
 - Apr, 2024, Paper accepted - FSE 2024, Ideas, Visions and Reflections Track: [Monitoring the Execution of 14K Tests: Methods Tend to Have One
   Path that Is Significantly More Executed](https://andrehora.github.io/pub/2024-fse-tested-paths.pdf)
 - Apr, 2024, Paper accepted - FSE 2024, Ideas, Visions and Reflections Track: Predicting Test Results without Execution
-- Apr, 2024, Paper accepted - FSE 2024, Demonstrations Track, Exploring Tested Paths to Discover Missing Tests
+- Apr, 2024, Paper accepted - FSE 2024, Demonstrations Track: [PathSpotter: Exploring Tested Paths to Discover Missing Tests](https://andrehora.github.io/pub/2024-fse-pathspotter.pdf)
 - Mar, 2024, PC Member - ECOOP/ISSTA 2024, Tool Demonstrations Track
 - Jan, 2024, Paper accepted - ICSE 2024 - Demonstrations Track: [SpotFlow: Tracking Method Calls and States at Runtime](https://andrehora.github.io/pub/2024-icse-spotflow.pdf)
 - Jan, 2024, Paper accepted - MSR 2024: [Availability and Usage of Platform-Specific APIs: A First
