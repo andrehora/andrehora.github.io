@@ -21,14 +21,14 @@ I was also a software developer at [Inria](https://www.inria.fr/en) (Lille, Fran
   Path that Is Significantly More Executed](https://andrehora.github.io/pub/2024-fse-tested-paths.pdf)
 - Apr, 2024, Paper accepted - FSE 2024, Ideas, Visions and Reflections Track: Predicting Test Results without Execution
 - Apr, 2024, Paper accepted - FSE 2024, Demonstrations Track: [PathSpotter: Exploring Tested Paths to Discover Missing Tests](https://andrehora.github.io/pub/2024-fse-pathspotter.pdf)
-- Mar, 2024, PC Member - ECOOP/ISSTA 2024, Tool Demonstrations Track
+- Mar, 2024, PC Member - [ECOOP/ISSTA 2024, Tool Demonstrations Track](https://conf.researchr.org/home/issta-ecoop-2024)
 - Jan, 2024, Paper accepted - ICSE 2024 - Demonstrations Track: [SpotFlow: Tracking Method Calls and States at Runtime](https://andrehora.github.io/pub/2024-icse-spotflow.pdf)
 - Jan, 2024, Paper accepted - MSR 2024: [Availability and Usage of Platform-Specific APIs: A First
   Empirical Study](https://andrehora.github.io/pub/2024-msr-ptaform-specific-apis.pdf)
 - Jan, 2024, Paper accepted - MSR 2024 - Data and Tools Showcase Track: [TestDossier: A Dataset of Tested Values Automatically Extracted
   from Test Execution](https://andrehora.github.io/pub/2024-msr-testdossier.pdf)
-- Jul, 2023: PC Member - SANER 2024, ERA Track
-- Jun, 2023: PC Member - MSR 2024
+- Jul, 2023: PC Member - [SANER 2024, ERA Track](https://conf.researchr.org/home/saner-2024)
+- Jun, 2023: PC Member - [MSR 2024](https://2024.msrconf.org)
 - Feb, 2023: Bolsa de Produtividade em Pesquisa (CNPq/PQ) accepted
 - Jan, 2023: Paper accepted - IEEE Software: On the Usage of New JavaScript Features through Transpilers: The Babel Case
 - Jan, 2023: Paper accepted - Journal of Software: Evolution and Process: Towards a catalog of composite refactorings
