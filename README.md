@@ -53,7 +53,7 @@ I was also a software developer at [Inria](https://www.inria.fr/en) (Lille, Fran
 
 ## Publications
 
-See: https://scholar.google.com.br/citations?user=2fwfYtQAAAAJ&hl=en
+See: [Google Scholar](https://scholar.google.com.br/citations?user=2fwfYtQAAAAJ&hl=en)
 
 ## Program Committee
 
