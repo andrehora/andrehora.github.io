@@ -29,7 +29,7 @@ I was also a software developer at [Inria](https://www.inria.fr/en) (Lille, Fran
   from Test Execution](https://andrehora.github.io/pub/2024-msr-testdossier.pdf)
 - Jul, 2023: PC Member - [SANER 2024, ERA Track](https://conf.researchr.org/home/saner-2024)
 - Jun, 2023: PC Member - [MSR 2024](https://2024.msrconf.org)
-- Feb, 2023: Bolsa de Produtividade em Pesquisa (CNPq/PQ) accepted
+- Feb, 2023: Research Productivity Grant (CNPq/PQ)
 - Jan, 2023: Paper accepted - IEEE Software: On the Usage of New JavaScript Features through Transpilers: The Babel Case
 - Jan, 2023: Paper accepted - Journal of Software: Evolution and Process: Towards a catalog of composite refactorings
 - Nov, 2022: Paper accepted - Empirical Software Engineering: Excluding Code from Test Coverage: Practices, Motivations, and Impact
