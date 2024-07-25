@@ -12,7 +12,7 @@ I was also a software developer at [Inria](https://www.inria.fr/en) (Lille, Fran
 
 > **Contact:** andrehora [at] dcc [dot] ufmg [dot] br
 
-> **See also:** [Google Scholar](https://scholar.google.com.br/citations?user=2fwfYtQAAAAJ&hl=en) • [Researchr](https://conf.researchr.org/profile/conf/andrehora) • [DBLP](http://dblp.uni-trier.de/pers/hd/h/Hora:Andr=eacute=_C=) • [Research Gate](https://www.researchgate.net/profile/Andre_Hora) • [Lattes](http://lattes.cnpq.br/4957418183504876) • [CSIndexbr](https://csindexbr.org/authors.html?p=Andre-Hora) • [DCC profile](https://dcc.ufmg.br/professor/andre-cavalcante-hora) • [UFMG profile](https://somos.ufmg.br/professor/andre-cavalcante-hora)
+> **See also:** [Google Scholar](https://scholar.google.com.br/citations?user=2fwfYtQAAAAJ&hl=en) • [Researchr](https://conf.researchr.org/profile/conf/andrehora) • [DBLP](http://dblp.uni-trier.de/pers/hd/h/Hora:Andr=eacute=_C=) • [Research Gate](https://www.researchgate.net/profile/Andre_Hora) • [Lattes](http://lattes.cnpq.br/4957418183504876) • [CSIndexbr](https://csindexbr.org/authors.html?p=Andre-Hora) • [DCC profile](https://dcc.ufmg.br/professor/andre-cavalcante-hora) • [UFMG profile](https://somos.ufmg.br/professor/andre-cavalcante-hora) • [SlideShare](https://www.slideshare.net/andrehoraa)
 
 ## News
 
