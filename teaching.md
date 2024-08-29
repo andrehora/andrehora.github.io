@@ -1,6 +1,6 @@
 # DCC/UFMG
 
-## Engengaria de Software II (DCC072)
+## Engenharia de Software II (DCC072)
 
 - Manutenção e evolução de software
 - Refatoração
