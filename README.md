@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="/andre-hora.png" alt="Andre Hora" style="height:250px; width:250px;"/>
-</p>
-
 Professor in the [Department of Computer Science](https://dcc.ufmg.br) at [UFMG](https://ufmg.br), Brazil.
 Member of the [Applied Software Engineering Research Group (ASERG)](http://aserg.labsoft.dcc.ufmg.br) lab. 
 PhD in Computer Science from the [University of Lille](https://www.univ-lille.fr), France.
