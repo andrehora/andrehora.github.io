@@ -1,4 +1,4 @@
-# DCC/UFMG
+# Disciplinas
 
 ## Engenharia de Software II (DCC072)
 
