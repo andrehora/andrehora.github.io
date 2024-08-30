@@ -5,7 +5,7 @@
 Professor in the [Department of Computer Science](https://dcc.ufmg.br) at [UFMG](https://ufmg.br), Brazil.
 Member of the [Applied Software Engineering Research Group (ASERG)](http://aserg.labsoft.dcc.ufmg.br) lab. 
 PhD in Computer Science from the [University of Lille](https://www.univ-lille.fr), France.
-Previously, postdoctoral researcher at DCC/UFMG and oftware developer at [Inria](https://www.inria.fr/en) (Lille, France) and a research intern at Siemens (Erlangen, Germany).
+Previously, postdoctoral researcher at DCC/UFMG, software developer at [Inria](https://www.inria.fr/en) (Lille, France), and research intern at Siemens (Erlangen, Germany).
 
 > **Research interests**: Software Evolution, Software Maintenance, Software Testing, Mining Software Repositories
 
