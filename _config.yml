@@ -4,3 +4,7 @@ logo: andre-hora.png
 theme: jekyll-theme-minimal
 github:
   is_project_page: false
+
+platforms:
+  - name: GitHub
+    link: https://github.com/
