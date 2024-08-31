@@ -3,7 +3,7 @@ Member of the [Applied Software Engineering Research Group (ASERG)](http://aserg
 PhD in Computer Science from the [University of Lille](https://www.univ-lille.fr), France.
 Previously, postdoctoral researcher at DCC/UFMG, software developer at [Inria](https://www.inria.fr/en) (Lille, France), and research intern at Siemens (Erlangen, Germany).
 
-> **Research interests**: Software Evolution, Software Maintenance, Software Testing, Mining Software Repositories
+> **Research interests**: Software Testing, Software Evolution, Software Maintenance, Mining Software Repositories
 
 > **Contact:** andrehoraa [at] gmail [dot] com • andrehora [at] dcc [dot] ufmg [dot] br
 
