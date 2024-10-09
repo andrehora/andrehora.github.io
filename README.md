@@ -11,6 +11,8 @@ Previously, postdoctoral researcher at DCC/UFMG, software developer at [Inria](h
 
 ## News
 
+- Jul, 2024: PC Member - [MSR 2025](https://2025.msrconf.org)
+- Jun, 2024, PC Member - [ICSE 2025, Demonstrations Track](https://conf.researchr.org/track/icse-2025/icse-2025-demonstrations)
 - Apr, 2024, Paper accepted - FSE 2024, Ideas, Visions and Reflections Track: [Test Polarity: Detecting Positive and Negative Tests](https://andrehora.github.io/pub/2024-fse-test-polarity.pdf)
 - Apr, 2024, Paper accepted - FSE 2024, Ideas, Visions and Reflections Track: [Monitoring the Execution of 14K Tests: Methods Tend to Have One
   Path that Is Significantly More Executed](https://andrehora.github.io/pub/2024-fse-tested-paths.pdf)
@@ -52,6 +54,8 @@ See: [Google Scholar](https://scholar.google.com.br/citations?user=2fwfYtQAAAAJ&
 
 ## Program Committee
 
+- 22th IEEE/ACM International Conference on Mining Software Repositories (MSR 2025), Ottawa, Canada
+- 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), Demonstrations Track, Ottawa, Canada
 - ISSTA/ECOOP 2024, Tool Demonstrations Track, Vienna, Austria
 - 21th IEEE/ACM International Conference on Mining Software Repositories (MSR 2024), Lisbon, Portugal
 - 31th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2024) - ERA Track, Rovaniemi, Finland
