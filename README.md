@@ -28,8 +28,8 @@ Previously, he was a postdoctoral researcher at DCC/UFMG, a software developer a
 
 ## Awards and Recognition
 
-- 🏆 Best Master thesis - SBES/CBSoft 2023: Exploring Code Samples Characteristics and Their Impacts on Software Ecosystems
 - Research Productivity Grant (CNPq/PQ) - 2023
+- 🏆 Best Master thesis - SBES/CBSoft 2023: Exploring Code Samples Characteristics and Their Impacts on Software Ecosystems
 - 🏆 ACM Distinguished Paper Award - MSR 2021: What Code Is Deliberately Excluded from Test Coverage and Why?
 - 🏆 Distinguished Reviewer Award - MSR 2020
 
