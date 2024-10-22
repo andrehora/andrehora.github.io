@@ -11,7 +11,7 @@ Previously, postdoctoral researcher at DCC/UFMG, software developer at [Inria](h
 
 ## News
 
-- Oct, 2024: Paper accepted - Empirical Software Engineering: How and Why Developers Implement OS-Specific Tests
+- Oct, 2024: Paper accepted - Empirical Software Engineering: [How and Why Developers Implement OS-Specific Tests](https://andrehora.github.io/pub/2025-emse-os-specific-tests.pdf)
 - Sep, 2024: PC Member - [MSR 2025](https://2025.msrconf.org)
 - Aug, 2024, PC Member - [ICSE 2025, Demonstrations Track](https://conf.researchr.org/track/icse-2025/icse-2025-demonstrations)
 - Apr, 2024, Paper accepted - FSE 2024, Ideas, Visions and Reflections Track: [Test Polarity: Detecting Positive and Negative Tests](https://andrehora.github.io/pub/2024-fse-test-polarity.pdf)
