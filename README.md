@@ -25,29 +25,6 @@ Previously, postdoctoral researcher at DCC/UFMG, software developer at [Inria](h
   Empirical Study](https://andrehora.github.io/pub/2024-msr-ptaform-specific-apis.pdf)
 - Jan, 2024, Paper accepted - MSR 2024 - Data and Tools Showcase Track: [TestDossier: A Dataset of Tested Values Automatically Extracted
   from Test Execution](https://andrehora.github.io/pub/2024-msr-testdossier.pdf)
-- Jul, 2023: PC Member - [SANER 2024, ERA Track](https://conf.researchr.org/home/saner-2024)
-- Jun, 2023: PC Member - [MSR 2024](https://2024.msrconf.org)
-- Feb, 2023: Research Productivity Grant (CNPq/PQ)
-- Jan, 2023: Paper accepted - IEEE Software: On the Usage of New JavaScript Features through Transpilers: The Babel Case
-- Jan, 2023: Paper accepted - Journal of Software: Evolution and Process: Towards a catalog of composite refactorings
-- Nov, 2022: Paper accepted - Empirical Software Engineering: Excluding Code from Test Coverage: Practices, Motivations, and Impact
-- Jul, 2022: Paper accepted - Software Quality Journal: How do developers collaborate? Investigating GitHub heterogeneous networks
-- Mar, 2022: Paper accepted - Empirical Software Engineering: How and Why We End Up with Complex Methods: A Multi-Language Study
-- Mar, 2022: Paper accepted - MSR 2022: Characterizing High-Quality Test Methods: A First Empirical Study
-- Jan, 2022: Paper accepted - SANER 2022: How and Why Developers Migrate Python Tests
-- Jan, 2022: Paper accepted - SANER 2022, ERA Track: Exploring API Deprecation Evolution in JavaScript
-- Nov, 2021: Paper accepted - Journal of Systems and Software: How Are Framework Code Samples Maintained and Used by Developers? The Case of Android and Spring Boot
-- Sep, 2021: Journal online - IEEE Software: JavaScript API Deprecation Landscape: A Survey and Mining Study
-- Sep, 2021: Journal online - Empirical Software Engineering: Characterizing Refactoring Graphs in Java and JavaScript Projects
-- Aug, 2021: PC Member - MSR 2022
-- Jul, 2021: Paper accepted - IEEE Software: JavaScript API Deprecation Landscape: A Survey and Mining Study
-- Jul, 2021: Paper accepted - Empirical Software Engineering: Characterizing Refactoring Graphs in Java and JavaScript Projects
-- Jun, 2021: PC Member - VEM 2021
-- May, 2021: ACM Distinguished Paper Award for MSR 2021: What Code Is Deliberately Excluded from Test Coverage and Why?
-- Apr, 2021: Paper accepted - Journal of Systems and Software: Characterizing Top Ranked Code Examples in Google
-- Mar, 2021: Paper accepted - MSR 2021: Googling for Software Development: What Developers Search For and What They Find
-- Mar, 2021: Paper accepted - MSR 2021: What Code Is Deliberately Excluded from Test Coverage and Why?
-- Feb, 2021: PC Member - ICSME 2021
 
 ## Publications
 
