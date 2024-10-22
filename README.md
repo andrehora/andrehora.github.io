@@ -1,7 +1,7 @@
-Professor in the [Department of Computer Science](https://dcc.ufmg.br) at [UFMG](https://ufmg.br), Brazil.
-Member of the [Applied Software Engineering Research Group (ASERG)](http://aserg.labsoft.dcc.ufmg.br) lab. 
-PhD in Computer Science from the [University of Lille](https://www.univ-lille.fr), France.
-Previously, postdoctoral researcher at DCC/UFMG, software developer at [Inria](https://www.inria.fr/en) (Lille, France), and research intern at Siemens (Erlangen, Germany).
+**Andre Hora** is a professor in the [Department of Computer Science](https://dcc.ufmg.br) at [UFMG](https://ufmg.br), Brazil.
+He is member of the [Applied Software Engineering Research Group (ASERG)](http://aserg.labsoft.dcc.ufmg.br). 
+He obtained his Ph.D. in Computer Science from the [University of Lille](https://www.univ-lille.fr), France.
+Previously, he was a postdoctoral researcher at DCC/UFMG, a software developer at [Inria](https://www.inria.fr/en) (Lille, France), and a research intern at Siemens (Erlangen, Germany).
 
 > **Research interests**: Software Testing, Software Evolution, Software Maintenance, Mining Software Repositories
 
@@ -25,6 +25,12 @@ Previously, postdoctoral researcher at DCC/UFMG, software developer at [Inria](h
   Empirical Study](https://andrehora.github.io/pub/2024-msr-ptaform-specific-apis.pdf)
 - Jan, 2024, Paper accepted - MSR 2024 - Data and Tools Showcase Track: [TestDossier: A Dataset of Tested Values Automatically Extracted
   from Test Execution](https://andrehora.github.io/pub/2024-msr-testdossier.pdf)
+
+## Awards and Recognition
+
+- Research Productivity Grant (CNPq/PQ) - 2023
+- 🏆 ACM Distinguished Paper Award - MSR 2021: What Code Is Deliberately Excluded from Test Coverage and Why?
+- 🏆 Distinguished Reviewer Award - MSR 2020
 
 ## Publications
 
