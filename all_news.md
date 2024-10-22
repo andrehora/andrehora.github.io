@@ -1,19 +1,22 @@
 ## News
 
-- Apr, 2024, Paper accepted - FSE 2024, Ideas, Visions and Reflections Track: Test Polarity: Detecting Positive and Negative Tests
-- Apr, 2024, Paper accepted - FSE 2024, Ideas, Visions and Reflections Track: Monitoring the Execution of 14K Tests: Methods Tend to Have One
-  Path that Is Significantly More Executed
-- Apr, 2024, Paper accepted - FSE 2024, Ideas, Visions and Reflections Track: Predicting Test Results without Execution
-- Apr, 2024, Paper accepted - FSE 2024, Demonstrations Track, Exploring Tested Paths to Discover Missing Tests
-- Mar, 2024, PC Member - ECOOP/ISSTA 2024, Tool Demonstrations Track
-- Jan, 2024, Paper accepted - ICSE 2024 - Demonstrations Track: SpotFlow: Tracking Method Calls and States at Runtime
-- Jan, 2024, Paper accepted - MSR 2024: Availability and Usage of Platform-Specific APIs: A First
-  Empirical Study
-- Jan, 2024, Paper accepted - MSR 2024 - Data and Tools Showcase Track: TestDossier: A Dataset of Tested Values Automatically Extracted
-  from Test Execution
-- Jul, 2023: PC Member - SANER 2024, ERA Track
-- Jun, 2023: PC Member - MSR 2024
-- Feb, 2023: Bolsa de Produtividade em Pesquisa (CNPq/PQ) accepted
+- Oct, 2024: Paper accepted - Empirical Software Engineering: [How and Why Developers Implement OS-Specific Tests](https://andrehora.github.io/pub/2025-emse-os-specific-tests.pdf)
+- Sep, 2024: PC Member - [MSR 2025](https://2025.msrconf.org)
+- Aug, 2024, PC Member - [ICSE 2025, Demonstrations Track](https://conf.researchr.org/track/icse-2025/icse-2025-demonstrations)
+- Apr, 2024, Paper accepted - FSE 2024, Ideas, Visions and Reflections Track: [Test Polarity: Detecting Positive and Negative Tests](https://andrehora.github.io/pub/2024-fse-test-polarity.pdf)
+- Apr, 2024, Paper accepted - FSE 2024, Ideas, Visions and Reflections Track: [Monitoring the Execution of 14K Tests: Methods Tend to Have One
+  Path that Is Significantly More Executed](https://andrehora.github.io/pub/2024-fse-tested-paths.pdf)
+- Apr, 2024, Paper accepted - FSE 2024, Ideas, Visions and Reflections Track: [Predicting Test Results without Execution](https://andrehora.github.io/pub/2024-fse-predicting-test-result-gpt4.pdf)
+- Apr, 2024, Paper accepted - FSE 2024, Demonstrations Track: [PathSpotter: Exploring Tested Paths to Discover Missing Tests](https://andrehora.github.io/pub/2024-fse-pathspotter.pdf)
+- Mar, 2024, PC Member - [ECOOP/ISSTA 2024, Tool Demonstrations Track](https://conf.researchr.org/home/issta-ecoop-2024)
+- Jan, 2024, Paper accepted - ICSE 2024 - Demonstrations Track: [SpotFlow: Tracking Method Calls and States at Runtime](https://andrehora.github.io/pub/2024-icse-spotflow.pdf)
+- Jan, 2024, Paper accepted - MSR 2024: [Availability and Usage of Platform-Specific APIs: A First
+  Empirical Study](https://andrehora.github.io/pub/2024-msr-ptaform-specific-apis.pdf)
+- Jan, 2024, Paper accepted - MSR 2024 - Data and Tools Showcase Track: [TestDossier: A Dataset of Tested Values Automatically Extracted
+  from Test Execution](https://andrehora.github.io/pub/2024-msr-testdossier.pdf)
+- Jul, 2023: PC Member - [SANER 2024, ERA Track](https://conf.researchr.org/home/saner-2024)
+- Jun, 2023: PC Member - [MSR 2024](https://2024.msrconf.org)
+- Feb, 2023: Research Productivity Grant (CNPq/PQ)
 - Jan, 2023: Paper accepted - IEEE Software: On the Usage of New JavaScript Features through Transpilers: The Babel Case
 - Jan, 2023: Paper accepted - Journal of Software: Evolution and Process: Towards a catalog of composite refactorings
 - Nov, 2022: Paper accepted - Empirical Software Engineering: Excluding Code from Test Coverage: Practices, Motivations, and Impact
