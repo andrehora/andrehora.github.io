@@ -11,6 +11,10 @@ Previously, he was a postdoctoral researcher at DCC/UFMG, a software developer a
 
 ## News
 
+- Jan, 2024, Paper accepted - MSR 2025: What Do Contribution Guidelines Say About Software Testing?
+- Jan, 2024, Paper accepted - MSR 2025 - Data and Tools Showcase Track: TestMigrationsInPy: A Dataset of Test Migrations from Unittest to Pytest
+- Jan, 2025, Paper accepted - AST 2025: Exceptional Behaviors: How Frequently Are They Tested?
+- Dec, 2024, PC Member - [ISSTA 2025, Tool Demonstrations Track](https://conf.researchr.org/home/issta-2025)
 - Oct, 2024: Paper accepted - Empirical Software Engineering: [How and Why Developers Implement OS-Specific Tests](https://andrehora.github.io/pub/2025-emse-os-specific-tests.pdf)
 - Sep, 2024: PC Member - [MSR 2025](https://2025.msrconf.org)
 - Aug, 2024, PC Member - [ICSE 2025, Demonstrations Track](https://conf.researchr.org/track/icse-2025/icse-2025-demonstrations)
@@ -29,9 +33,9 @@ Previously, he was a postdoctoral researcher at DCC/UFMG, a software developer a
 ## Awards and Recognition
 
 - Research Productivity Grant (CNPq/PQ) - 2023
-- 🏆 Best Master thesis - SBES/CBSoft 2023: Exploring Code Samples Characteristics and Their Impacts on Software Ecosystems
-- 🏆 ACM Distinguished Paper Award - MSR 2021: What Code Is Deliberately Excluded from Test Coverage and Why?
-- 🏆 Distinguished Reviewer Award - MSR 2020
+- Best Master thesis - SBES/CBSoft 2023: Exploring Code Samples Characteristics and Their Impacts on Software Ecosystems
+- ACM Distinguished Paper Award - MSR 2021: What Code Is Deliberately Excluded from Test Coverage and Why?
+- Distinguished Reviewer Award - MSR 2020
 
 ## Publications
 
@@ -39,36 +43,37 @@ See: [Google Scholar](https://scholar.google.com.br/citations?user=2fwfYtQAAAAJ&
 
 ## Program Committee
 
+- 34th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), Tool Demonstrations Track, Trondheim, Norway
 - 22th IEEE/ACM International Conference on Mining Software Repositories (MSR 2025), Ottawa, Canada
 - 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), Demonstrations Track, Ottawa, Canada
 - ISSTA/ECOOP 2024, Tool Demonstrations Track, Vienna, Austria
 - 21th IEEE/ACM International Conference on Mining Software Repositories (MSR 2024), Lisbon, Portugal
-- 31th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2024) - ERA Track, Rovaniemi, Finland
+- 31th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2024), ERA Track, Rovaniemi, Finland
 - 19th IEEE/ACM International Conference on Mining Software Repositories (MSR 2022), Pittsburgh, USA
 - 9th Workshop on Software Visualization, Evolution and Maintenance (VEM 2021), online
 - 37th IEEE International Conference on Software Maintenance and Evolution (ICSME 2021), Luxembourg City, Luxembourg
 - 18th IEEE/ACM International Conference on Mining Software Repositories (MSR 2021), Madrid, Spain
 - 35th Brazilian Symposium on Software Engineering (SBES 2021), Joinville, Brazil
 - 36th IEEE International Conference on Software Maintenance and Evolution (ICSME 2020), Adelaide, Australia
-- 20th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM 2020) - Engineering Track, Adelaide, Australia
+- 20th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM 2020), Engineering Track, Adelaide, Australia
 - 8th Workshop on Software Visualization, Evolution and Maintenance (VEM 2020), Natal, Brazil
 - SBES 2020 - Innovative Ideas and Emerging Results Track (SBES 2020), Natal, Brazil
 - 8th Workshop on Thesis and Dissertations of CBSoft (WTDSoft 2020), Natal, Brazil
-- 28th International Conference on Program Comprehension (ICPC 2020) - Tool Track, Seoul, South Korea
+- 28th International Conference on Program Comprehension (ICPC 2020), Tool Track, Seoul, South Korea
 - 19th International Conference on Software and Systems Reuse (ICSR 2020), Hammamet, Tunisia
 - 17th IEEE/ACM International Conference on Mining Software Repositories (MSR 2020), Seoul, South Korea
-- 27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020) - ERA Track, London, Canada
+- 27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020), ERA Track, London, Canada
 - 23rd Ibero-American Conference on Software Engineering (CIbSE 2020), Curitiba, Brazil
-- 35th IEEE International Conference on Software Maintenance and Evolution (ICSME 2019) - Short Papers Track, Cleveland, USA
-- 19th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM 2019) - Engineering Track, Cleveland, USA
+- 35th IEEE International Conference on Software Maintenance and Evolution (ICSME 2019), Short Papers Track, Cleveland, USA
+- 19th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM 2019), Engineering Track, Cleveland, USA
 - 12th Seminar on Advanced Techniques & Tools for Software Evolution (SATToSE 2019), Bolzano, Italy
-- 26th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2019) - ERA Track, Hangzhou, China
+- 26th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2019), ERA Track, Hangzhou, China
 - International Workshop on Smalltalk Technologies (IWST 2019), Cologne, Germany
 - 7th Workshop on Thesis and Dissertations of CBSoft (WTDSoft 2019), Salvador, Brazil
 - 10th Brazilian Conference on Software: Theory and Practice (Tool Track 2019), Salvador, Brazil
 - 7th Workshop on Software Visualization, Evolution and Maintenance (VEM 2019), Salvador, Brazil
 - 34th IEEE International Conference on Software Maintenance and Evolution (ICSME 2018), Madrid, Spain
-- 34th IEEE International Conference on Software Maintenance and Evolution (ICSME 2018) - Artifacts Track, Madrid, Spain
+- 34th IEEE International Conference on Software Maintenance and Evolution (ICSME 2018), Artifacts Track, Madrid, Spain
 - 5th Workshop on Software Visualization, Evolution and Maintenance (VEM 2017), Fortaleza, Brazil
 - 6th Workshop on Software Visualization, Evolution and Maintenance (VEM 2018), São Carlos, Brazil
 - 8th Workshop on Thesis and Dissertations of CBSoft (WTDSoft 2018), São Carlos, Brazil
