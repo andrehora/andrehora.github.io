@@ -12,7 +12,7 @@ Previously, he was a postdoctoral researcher at DCC/UFMG, a software developer a
 ## News
 
 - Jan, 2024, Paper accepted - MSR 2025: What Do Contribution Guidelines Say About Software Testing?
-- Jan, 2024, Paper accepted - MSR 2025 - Data and Tools Showcase Track: TestMigrationsInPy: A Dataset of Test Migrations from Unittest to Pytest
+- Jan, 2024, Paper accepted - MSR 2025, Data and Tools Showcase Track: TestMigrationsInPy: A Dataset of Test Migrations from Unittest to Pytest
 - Jan, 2025, Paper accepted - AST 2025: Exceptional Behaviors: How Frequently Are They Tested?
 - Dec, 2024, PC Member - [ISSTA 2025, Tool Demonstrations Track](https://conf.researchr.org/home/issta-2025)
 - Oct, 2024: Paper accepted - Empirical Software Engineering: [How and Why Developers Implement OS-Specific Tests](https://andrehora.github.io/pub/2025-emse-os-specific-tests.pdf)
@@ -24,10 +24,10 @@ Previously, he was a postdoctoral researcher at DCC/UFMG, a software developer a
 - Apr, 2024, Paper accepted - FSE 2024, Ideas, Visions and Reflections Track: [Predicting Test Results without Execution](https://andrehora.github.io/pub/2024-fse-predicting-test-result-gpt4.pdf)
 - Apr, 2024, Paper accepted - FSE 2024, Demonstrations Track: [PathSpotter: Exploring Tested Paths to Discover Missing Tests](https://andrehora.github.io/pub/2024-fse-pathspotter.pdf)
 - Mar, 2024, PC Member - [ECOOP/ISSTA 2024, Tool Demonstrations Track](https://conf.researchr.org/home/issta-ecoop-2024)
-- Jan, 2024, Paper accepted - ICSE 2024 - Demonstrations Track: [SpotFlow: Tracking Method Calls and States at Runtime](https://andrehora.github.io/pub/2024-icse-spotflow.pdf)
+- Jan, 2024, Paper accepted - ICSE 2024, Demonstrations Track: [SpotFlow: Tracking Method Calls and States at Runtime](https://andrehora.github.io/pub/2024-icse-spotflow.pdf)
 - Jan, 2024, Paper accepted - MSR 2024: [Availability and Usage of Platform-Specific APIs: A First
   Empirical Study](https://andrehora.github.io/pub/2024-msr-ptaform-specific-apis.pdf)
-- Jan, 2024, Paper accepted - MSR 2024 - Data and Tools Showcase Track: [TestDossier: A Dataset of Tested Values Automatically Extracted
+- Jan, 2024, Paper accepted - MSR 2024, Data and Tools Showcase Track: [TestDossier: A Dataset of Tested Values Automatically Extracted
   from Test Execution](https://andrehora.github.io/pub/2024-msr-testdossier.pdf)
 
 ## Awards and Recognition
