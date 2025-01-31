@@ -43,7 +43,7 @@ See: [Google Scholar](https://scholar.google.com.br/citations?user=2fwfYtQAAAAJ&
 
 ## Program Committee
 
-- 34th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), Tool Demonstrations Track, Trondheim, Norway
+- 34th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025), Tool Demonstrations Track, Trondheim, Norway
 - 22th IEEE/ACM International Conference on Mining Software Repositories (MSR 2025), Ottawa, Canada
 - 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), Demonstrations Track, Ottawa, Canada
 - ISSTA/ECOOP 2024, Tool Demonstrations Track, Vienna, Austria
