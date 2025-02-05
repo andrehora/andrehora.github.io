@@ -13,7 +13,7 @@ Previously, he was a postdoctoral researcher at DCC/UFMG, a software developer a
 
 - Jan, 2025, Paper accepted - MSR 2025: [What Do Contribution Guidelines Say About Software Testing?](https://andrehora.github.io/pub/2025-msr-test-documentation.pdf)
 - Jan, 2025, Paper accepted - MSR 2025, Data and Tools Showcase Track: [TestMigrationsInPy: A Dataset of Test Migrations from Unittest to Pytest](https://andrehora.github.io/pub/2025-msr-testmigrationsinpy.pdf)
-- Jan, 2025, Paper accepted - AST 2025: Exceptional Behaviors: How Frequently Are They Tested?
+- Jan, 2025, Paper accepted - AST 2025: [Exceptional Behaviors: How Frequently Are They Tested?](https://andrehora.github.io/pub/2025-ast-exceptional-behaviors.pdf)
 - Dec, 2024, PC Member - [ISSTA 2025, Tool Demonstrations Track](https://conf.researchr.org/home/issta-2025)
 - Oct, 2024: Paper accepted - Empirical Software Engineering: [How and Why Developers Implement OS-Specific Tests](https://andrehora.github.io/pub/2025-emse-os-specific-tests.pdf)
 - Sep, 2024: PC Member - [MSR 2025](https://2025.msrconf.org)
