@@ -12,6 +12,7 @@ Previously, he was a postdoctoral researcher at DCC/UFMG, a software developer a
 ## News
 
 - Jun, 2025, PC Member - [MSR 2026](https://2026.msrconf.org)
+- Jun, 2025, PC Member - [ICSE 2026, Demonstrations Track](https://conf.researchr.org/home/icse-2026)
 - May, 2025, PC Member - [ASE 2025, Tool Demonstration Track](https://conf.researchr.org/home/ase-2025)
 - May, 2025, PC Member - [VEM 2025](https://vemworkshop.github.io/vem2025)
 - Jan, 2025, Paper accepted - MSR 2025: [What Do Contribution Guidelines Say About Software Testing?](https://andrehora.github.io/pub/2025-msr-test-documentation.pdf)
@@ -47,6 +48,7 @@ See: [Google Scholar](https://scholar.google.com.br/citations?user=2fwfYtQAAAAJ&
 ## Program Committee
 
 - 23th IEEE/ACM International Conference on Mining Software Repositories (MSR 2026), Rio de Janeiro, Brazil
+- 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026), Demonstrations Track, Rio de Janeiro, Brazil
 - 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025), Tool Demonstration Track, Seoul, South Korea
 - 13th Workshop on Software Visualization, Evolution and Maintenance (VEM 2025), Recife, Brazil
 - 34th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025), Tool Demonstrations Track, Trondheim, Norway
