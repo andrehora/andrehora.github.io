@@ -11,6 +11,7 @@ Previously, he was a postdoctoral researcher at DCC/UFMG, a software developer a
 
 ## News
 
+- May, 2025, PC Member - [ASE 2025, Tool Demonstration Track](https://conf.researchr.org/home/ase-2025)
 - May, 2025, PC Member - [VEM 2025](https://vemworkshop.github.io/vem2025)
 - Jan, 2025, Paper accepted - MSR 2025: [What Do Contribution Guidelines Say About Software Testing?](https://andrehora.github.io/pub/2025-msr-test-documentation.pdf)
 - Jan, 2025, Paper accepted - MSR 2025, Data and Tools Showcase Track: [TestMigrationsInPy: A Dataset of Test Migrations from Unittest to Pytest](https://andrehora.github.io/pub/2025-msr-testmigrationsinpy.pdf)
@@ -18,7 +19,7 @@ Previously, he was a postdoctoral researcher at DCC/UFMG, a software developer a
 - Dec, 2024, PC Member - [ISSTA 2025, Tool Demonstrations Track](https://conf.researchr.org/home/issta-2025)
 - Oct, 2024: Paper accepted - Empirical Software Engineering: [How and Why Developers Implement OS-Specific Tests](https://andrehora.github.io/pub/2025-emse-os-specific-tests.pdf)
 - Sep, 2024: PC Member - [MSR 2025](https://2025.msrconf.org)
-- Aug, 2024, PC Member - [ICSE 2025, Demonstrations Track](https://conf.researchr.org/track/icse-2025/icse-2025-demonstrations)
+- Aug, 2024, PC Member - [ICSE 2025, Demonstrations Track](https://conf.researchr.org/home/icse-2025)
 - Apr, 2024, Paper accepted - FSE 2024, Ideas, Visions and Reflections Track: [Test Polarity: Detecting Positive and Negative Tests](https://andrehora.github.io/pub/2024-fse-test-polarity.pdf)
 - Apr, 2024, Paper accepted - FSE 2024, Ideas, Visions and Reflections Track: [Monitoring the Execution of 14K Tests: Methods Tend to Have One
   Path that Is Significantly More Executed](https://andrehora.github.io/pub/2024-fse-tested-paths.pdf)
@@ -44,7 +45,8 @@ See: [Google Scholar](https://scholar.google.com.br/citations?user=2fwfYtQAAAAJ&
 
 ## Program Committee
 
-- 13th Workshop on Software Visualization, Evolution and Maintenance, Recife, Brazil
+- 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025), Tool Demonstration Track, Seoul, South Korea
+- 13th Workshop on Software Visualization, Evolution and Maintenance (VEM 2025), Recife, Brazil
 - 34th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025), Tool Demonstrations Track, Trondheim, Norway
 - 22th IEEE/ACM International Conference on Mining Software Repositories (MSR 2025), Ottawa, Canada
 - 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), Demonstrations Track, Ottawa, Canada
