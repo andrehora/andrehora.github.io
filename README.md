@@ -11,6 +11,7 @@ Previously, he was a postdoctoral researcher at DCC/UFMG, a software developer a
 
 ## News
 
+- May, 2025, PC Member - [VEM 2025](https://vemworkshop.github.io/vem2025)
 - Jan, 2025, Paper accepted - MSR 2025: [What Do Contribution Guidelines Say About Software Testing?](https://andrehora.github.io/pub/2025-msr-test-documentation.pdf)
 - Jan, 2025, Paper accepted - MSR 2025, Data and Tools Showcase Track: [TestMigrationsInPy: A Dataset of Test Migrations from Unittest to Pytest](https://andrehora.github.io/pub/2025-msr-testmigrationsinpy.pdf)
 - Jan, 2025, Paper accepted - AST 2025: [Exceptional Behaviors: How Frequently Are They Tested?](https://andrehora.github.io/pub/2025-ast-exceptional-behaviors.pdf)
@@ -43,6 +44,7 @@ See: [Google Scholar](https://scholar.google.com.br/citations?user=2fwfYtQAAAAJ&
 
 ## Program Committee
 
+- 13th Workshop on Software Visualization, Evolution and Maintenance, Recife, Brazil
 - 34th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025), Tool Demonstrations Track, Trondheim, Norway
 - 22th IEEE/ACM International Conference on Mining Software Repositories (MSR 2025), Ottawa, Canada
 - 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), Demonstrations Track, Ottawa, Canada
