@@ -10,7 +10,7 @@
 - Gerência de configuração de software
 - DevOps
 
-## Teste de Software (DCC030/049)
+## Teste de Software (DCC089)
 
 - Conceitos básicos de teste de software
 - Teste de unidade, integração e sistema
