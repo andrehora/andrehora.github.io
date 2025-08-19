@@ -11,6 +11,7 @@ Previously, he was a postdoctoral researcher at DCC/UFMG, a software developer a
 
 ## News
 
+- Aug, 2025, Paper accepted - SAST 2025: [On the Implementation of OS-Specific Tests: The CPython Case](https://andrehora.github.io/pub/2025-sast-cpython-os-specific-tests.pdf)
 - Jun, 2025, PC Member - [MSR 2026](https://2026.msrconf.org)
 - Jun, 2025, PC Member - [ICSE 2026, Demonstrations Track](https://conf.researchr.org/home/icse-2026)
 - May, 2025, PC Member - [ASE 2025, Tool Demonstration Track](https://conf.researchr.org/home/ase-2025)
