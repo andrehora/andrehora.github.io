@@ -11,6 +11,8 @@ Previously, he was a postdoctoral researcher at DCC/UFMG, a software developer a
 
 ## News
 
+- Oct, 2025, Started as [arXiv Moderator](https://arxiv.org/moderators) for Software Engineering (cs.SE)
+- Oct, 2025, PC Member - [ICPC 2026, ERA Track](https://conf.researchr.org/home/icpc-2026)
 - Aug, 2025, Paper accepted - SAST 2025: [On the Implementation of OS-Specific Tests: The CPython Case](https://andrehora.github.io/pub/2025-sast-cpython-os-specific-tests.pdf)
 - Jun, 2025, PC Member - [MSR 2026](https://2026.msrconf.org)
 - Jun, 2025, PC Member - [ICSE 2026, Demonstrations Track](https://conf.researchr.org/home/icse-2026)
@@ -48,6 +50,7 @@ See: [Google Scholar](https://scholar.google.com.br/citations?user=2fwfYtQAAAAJ&
 
 ## Program Committee
 
+- 34th IEEE/ACM International Conference on Program Comprehension (ICPC 2026), ERA Track, Rio de Janeiro, Brazil
 - 23th IEEE/ACM International Conference on Mining Software Repositories (MSR 2026), Rio de Janeiro, Brazil
 - 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026), Demonstrations Track, Rio de Janeiro, Brazil
 - 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025), Tool Demonstration Track, Seoul, South Korea
@@ -100,3 +103,6 @@ See: [Google Scholar](https://scholar.google.com.br/citations?user=2fwfYtQAAAAJ&
 - Journal of Software Engineering Research and Development (JSERD) - since 2015
 - Software Quality Journal (SQJ) - since 2014
 
+## Other
+
+- [arXiv Moderator](https://arxiv.org/moderators) for Software Engineering (cs.SE) - since 2025
