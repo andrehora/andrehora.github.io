@@ -7,7 +7,7 @@ Previously, he was a postdoctoral researcher at DCC/UFMG, a software developer a
 
 > **Contact:** andrehoraa [at] gmail [dot] com • andrehora [at] dcc [dot] ufmg [dot] br
 
-> **See also:** [Google Scholar](https://scholar.google.com.br/citations?user=2fwfYtQAAAAJ&hl=en) • [Researchr](https://conf.researchr.org/profile/conf/andrehora) • [DBLP](https://dblp.org/pid/54/7440.html) • [Research Gate](https://www.researchgate.net/profile/Andre_Hora) • [Lattes](http://lattes.cnpq.br/4957418183504876) • [CSIndexbr](https://csindexbr.org/authors.html?p=Andre-Hora) • [DCC profile](https://dcc.ufmg.br/professor/andre-cavalcante-hora) • [SlideShare](https://www.slideshare.net/andrehoraa) • [Teaching](teaching.md)
+> **See also:** [Google Scholar](https://scholar.google.com.br/citations?user=2fwfYtQAAAAJ&hl=en) • [Researchr](https://conf.researchr.org/profile/conf/andrehora) • [DBLP](https://dblp.org/pid/54/7440.html) • [Research Gate](https://www.researchgate.net/profile/Andre_Hora) • [Lattes](http://lattes.cnpq.br/4957418183504876) • [CSIndexbr](https://csindexbr.org/authors.html?p=Andre-Hora) • [DCC profile](https://dcc.ufmg.br/professor/andre-cavalcante-hora) • [SlideShare](https://www.slideshare.net/andrehoraa) • [Teaching](teaching.md)  • [TCC](tcc.md)
 
 ## News
 
