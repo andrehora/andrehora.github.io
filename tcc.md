@@ -16,11 +16,29 @@
 ## 2024.2
 - **Leandro Diniz Silva**: Revisão de Literatura Cinzenta: Testes Automatizados de Jogos Digitais
 - **Thiago Henrique Moreira Santos**: IFFT: Uma ferramenta de alerta de codigo para alterações coordenadas
+- **Lourenco Ferreira Monteiro Dias Montenegro**: Análise de Problemas Arquiteturais em Microsserviços: Uma Investigação Empírica em Repositórios Open-Source
+- **Matheus Vaz Leal Lima**: Análise de práticas de teste em projetos de software open source
+- **Daniel Pires Quirino**: Garantia de qualidade na gestão de mudança em sistemas web complexos com múltiplas dependências
+- **Felipe de Paula Goncalves**: Explorando as Dificuldades de Uso de ORMs em Sistemas de Software
 
 ## 2024.1
 - **Leandro Diniz Silva**: Mineração de Testes Automatizados em Repositórios de Jogos
 - **Thiago Henrique Moreira Santos**: IFFT: Uma ferramenta de alerta de codigo para alterações coordenadas
 - **Heitor de Paula Santos Damasceno**: AnyEater: uma Ferramenta de Código Aberto Para Analisar o Uso do Tipo Genérico em Projetos TypeScript
+- **Felipe de Paula Gonçalves**: Explorando as Dificuldades de Uso de ORMs em Sistemas de Software
+
+## 2023 
+- **Heitor de Paula Santos Damasceno**: Analisando como Desenvolvedores TypeScript Utilizam o Tipo Genérico “any”
+- **Vitoria Mirella Pereira do Nascimento**: Explorando como os desenvolvedores nomeiam métodos de teste em múltiplas linguagens de programação
+- **Rafael Gontijo Sabino Neves**: Explorando o Potencial do ChatGPT na Geração Automatizada de Testes de Unidade
+- **Geovanna Menegasse Silva**: Um Estudo Empírico sobre o Uso de Mocks em Sistemas Open Source
+- **Vitor Lucio dos Santos Ferreira**: Análise de Boas Práticas do Uso do Terraform em Projetos Open Source
+
+## 2022
+- **Fernanda Braga Cerqueira**: Estudo Exploratório do Ecossistema Replit no GitHub
+- **Samuel Jesus Pereira Cunha**: Análise da cobertura de testes em projetos open source
+- **Guilherme Fernandes Barbosa**: Pesquisa exploratória sobre os riscos do uso de ferramentas low-code no desenvolvimento web: O caso do Appsmith
+- **Ícaro Henrique Vieira Pinheiro**: Testes Automatizados: Análise dos Benefícios em Softwares de Larga Escala
 
 ## 2021
 - **Rafael Torres Souza**: Detecting Architectural Violations in C#
