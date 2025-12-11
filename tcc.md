@@ -1,4 +1,4 @@
-# POC e MSI
+# Trabalhos de Conclusão de Curso (POC e MSI)
 
 ## 2025.2
 - **Thiago de Assis Lima**: Análise Comparativa de Testes End-to-End Inteligência Artificial vs. Frameworks Tradicionais
@@ -22,5 +22,21 @@
 - **Thiago Henrique Moreira Santos**: IFFT: Uma ferramenta de alerta de codigo para alterações coordenadas
 - **Heitor de Paula Santos Damasceno**: AnyEater: uma Ferramenta de Código Aberto Para Analisar o Uso do Tipo Genérico em Projetos TypeScript
 
-## 2019.2
+## 2021
+- **Rafael Torres Souza**: Detecting Architectural Violations in C#
+- **Gabriel Alves Evangelista**: Uma análise sobre as práticas de teste de software no ecossistema Python
+- **Francielly das Neves Lafaete**: Uma Análise sobre Testes de Unidade e Integração em Sistemas Modernos
+- **Vinicius Brenner Moreira da Silva**: Uma Avaliação em Larga Escala do Truck Factor em Sistemas Open Source
+- **Julia Tiemi Alkmim Morishita**: TestingJS: Uma Ferramenta para Consulta dos Frameworks de Testes em Repositórios JavaScript
+
+## 2020
+- **Henrique Cesar Barbosa**: Mining Source Code to Identify Patterns in Test Methods
+- **Débora Alves Cordeiro**: Testes de performance e sua aplicação para garantia de qualidade de software
+- **Julia Tiemi Alkmim Morishita**: Um Estudo sobre a Popularidade de Frameworks de Teste em JavaScript
+
+## 2019
+- **Ananda de Oliveira Lopes**: Detecção de migrações incorretas para o GitHub
+- **Bruno Antonio Vieira**: Como os arquivos README evoluem ao longo do tempo em projetos do GitHub?
+- **Alexandre Henrique Garcia de Paiva**: Engenharia de Software na Embraer
 - **Vitor Botelho Vaz de Melo**: Identificando Commented-out Code em Repositórios de Software
+- **Lucas Mourão Ferreira**: Um Estudo Empírico e Evolucionário Sobre Dockerfiles
