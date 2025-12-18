@@ -51,7 +51,7 @@ See: [Google Scholar](https://scholar.google.com.br/citations?user=2fwfYtQAAAAJ&
 
 ## Program Committee
 
-- ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), Oakland, United States
+- ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026), Oakland, United States
 - 34th IEEE/ACM International Conference on Program Comprehension (ICPC 2026), ERA Track, Rio de Janeiro, Brazil
 - 23th IEEE/ACM International Conference on Mining Software Repositories (MSR 2026), Rio de Janeiro, Brazil
 - 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026), Demonstrations Track, Rio de Janeiro, Brazil
