@@ -11,12 +11,12 @@ Previously, he was a postdoctoral researcher at DCC/UFMG, a software developer a
 
 ## News
 
-- Jan, 2026, Paper accepted - MSR 2026: Are Coding Agents Generating Over-Mocked Tests? An Empirical Study
-- Jan, 2026, Paper accepted - MSR 2026: Promises, Perils, and (Timely) Heuristics for Mining Coding Agent Activity
-- Jan, 2026, Paper accepted - MSR 2026: GitEvo: Code Evolution Analysis for Git Repositories
-- Jan, 2026, Paper accepted - AST 2026: Testing Framework Migration with Large Language Models
-- Jan, 2026, Paper accepted - AST 2026: Understanding Bug-Reproducing Tests: A First Empirical Study
-- Jan, 2026, Paper accepted - ICPC 2026, ERA Track: Test Behaviors, Not Methods! Detecting Tests Obsessed by Methods
+- Jan, 2026, Paper accepted - MSR 2026: [Are Coding Agents Generating Over-Mocked Tests? An Empirical Study](https://andrehora.github.io/pub/2026-msr-agents-over-mocked-tests.pdf)
+- Jan, 2026, Paper accepted - MSR 2026: [Promises, Perils, and (Timely) Heuristics for Mining Coding Agent Activity](https://andrehora.github.io/pub/[xxx](https://arxiv.org/abs/2601.18345))
+- Jan, 2026, Paper accepted - MSR 2026: [GitEvo: Code Evolution Analysis for Git Repositories](https://andrehora.github.io/pub/2026-msr-gitevo.pdf)
+- Jan, 2026, Paper accepted - AST 2026: [Testing Framework Migration with Large Language Models](https://andrehora.github.io/pub/2026-ast-test-migration.pdf)
+- Jan, 2026, Paper accepted - AST 2026: [Understanding Bug-Reproducing Tests: A First Empirical Study](https://andrehora.github.io/pub/2026-ast-bug-reproducing-tests.pdf)
+- Jan, 2026, Paper accepted - ICPC 2026, ERA Track: [Test Behaviors, Not Methods! Detecting Tests Obsessed by Methods](https://andrehora.github.io/pub/2026-icpc-tests-obsessed-by-methods.pdf)
 - Dec, 2025, PC Member - [ISSTA 2026](https://conf.researchr.org/home/issta-2026)
 - Oct, 2025, Started as [arXiv Moderator](https://arxiv.org/moderators) for Software Engineering (cs.SE)
 - Oct, 2025, PC Member - [ICPC 2026, ERA Track](https://conf.researchr.org/home/icpc-2026)
