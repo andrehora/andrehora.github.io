@@ -12,7 +12,7 @@ Previously, he was a postdoctoral researcher at DCC/UFMG, a software developer a
 ## News
 
 - Jan, 2026, Paper accepted - MSR 2026: [Are Coding Agents Generating Over-Mocked Tests? An Empirical Study](https://andrehora.github.io/pub/2026-msr-agents-over-mocked-tests.pdf)
-- Jan, 2026, Paper accepted - MSR 2026: [Promises, Perils, and (Timely) Heuristics for Mining Coding Agent Activity(https://arxiv.org/abs/2601.18345)
+- Jan, 2026, Paper accepted - MSR 2026: [Promises, Perils, and (Timely) Heuristics for Mining Coding Agent Activity](https://arxiv.org/abs/2601.18345)
 - Jan, 2026, Paper accepted - MSR 2026: [GitEvo: Code Evolution Analysis for Git Repositories](https://andrehora.github.io/pub/2026-msr-gitevo.pdf)
 - Jan, 2026, Paper accepted - AST 2026: [Testing Framework Migration with Large Language Models](https://andrehora.github.io/pub/2026-ast-test-migration.pdf)
 - Jan, 2026, Paper accepted - AST 2026: [Understanding Bug-Reproducing Tests: A First Empirical Study](https://andrehora.github.io/pub/2026-ast-bug-reproducing-tests.pdf)
