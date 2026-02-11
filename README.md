@@ -11,6 +11,7 @@ Previously, he was a postdoctoral researcher at DCC/UFMG, a software developer a
 
 ## News
 
+- Jan, 2026, Most Influential Paper Award - [ICPC 2026](https://conf.researchr.org/track/icpc-2026/icpc-2026-mip-award): A Novel Approach for Estimating Truck Factors
 - Jan, 2026, Paper accepted - MSR 2026: [Are Coding Agents Generating Over-Mocked Tests? An Empirical Study](https://andrehora.github.io/pub/2026-msr-agents-over-mocked-tests.pdf)
 - Jan, 2026, Paper accepted - MSR 2026: [Promises, Perils, and (Timely) Heuristics for Mining Coding Agent Activity](https://arxiv.org/abs/2601.18345)
 - Jan, 2026, Paper accepted - MSR 2026: [GitEvo: Code Evolution Analysis for Git Repositories](https://andrehora.github.io/pub/2026-msr-gitevo.pdf)
@@ -46,6 +47,7 @@ Previously, he was a postdoctoral researcher at DCC/UFMG, a software developer a
 
 ## Awards and Recognition
 
+- Most Influential Paper Award - [ICPC 2026](https://conf.researchr.org/track/icpc-2026/icpc-2026-mip-award): A Novel Approach for Estimating Truck Factors
 - Research Productivity Grant (CNPq/PQ) - 2023
 - Best Master thesis - SBES/CBSoft 2023: Exploring Code Samples Characteristics and Their Impacts on Software Ecosystems
 - ACM Distinguished Paper Award - MSR 2021: What Code Is Deliberately Excluded from Test Coverage and Why?
