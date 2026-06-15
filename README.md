@@ -11,6 +11,7 @@ Previously, he was a postdoctoral researcher at DCC/UFMG, a software developer a
 
 ## News
 
+- May, 2026, PC Member - [ASE 2026, Tool Demonstration Track](https://conf.researchr.org/home/ase-2026)
 - 🏆 Apr, 2026, ACM SIGSOFT Distinguished Paper Award - MSR 2026: [Promises, Perils, and (Timely) Heuristics for Mining Coding Agent Activity](https://arxiv.org/pdf/2601.18345)
 - 🏆 Apr, 2026, Best Early Research Achievements paper - ICPC 2026: [Test Behaviors, Not Methods! Detecting Tests Obsessed by Methods](https://andrehora.github.io/pub/2026-icpc-tests-obsessed-by-methods.pdf)
 - 🏆 Jan, 2026, Most Influential Paper Award - [ICPC 2026](https://conf.researchr.org/track/icpc-2026/icpc-2026-mip-award): A Novel Approach for Estimating Truck Factors
@@ -64,8 +65,9 @@ See: [Google Scholar](https://scholar.google.com.br/citations?user=2fwfYtQAAAAJ&
 ## Program Committee
 
 - ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026), Oakland, USA
-- 34th IEEE/ACM International Conference on Program Comprehension (ICPC 2026), ERA Track, Rio de Janeiro, Brazil
+- 41th IEEE/ACM International Conference on Automated Software Engineering (ASE 2026), Tool Demonstration Track, Munich, Germany
 - 23th IEEE/ACM International Conference on Mining Software Repositories (MSR 2026), Rio de Janeiro, Brazil
+- 34th IEEE/ACM International Conference on Program Comprehension (ICPC 2026), ERA Track, Rio de Janeiro, Brazil
 - 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026), Demonstrations Track, Rio de Janeiro, Brazil
 - 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025), Tool Demonstration Track, Seoul, South Korea
 - 13th Workshop on Software Visualization, Evolution and Maintenance (VEM 2025), Recife, Brazil
