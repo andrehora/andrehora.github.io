@@ -12,6 +12,7 @@ Previously, he was a postdoctoral researcher at DCC/UFMG, a software developer a
 ## News
 
 - May, 2026, PC Member - [ASE 2026, Tool Demonstration Track](https://conf.researchr.org/home/ase-2026)
+- May, 2026, PC Member - VEM 2026, SBCARS 2026, SE4AS 2026, and SBQS 2026 
 - Apr, 2026, ACM SIGSOFT Distinguished Paper Award - MSR 2026: [Promises, Perils, and (Timely) Heuristics for Mining Coding Agent Activity](https://arxiv.org/pdf/2601.18345)
 - Apr, 2026, Best Early Research Achievements paper - ICPC 2026: [Test Behaviors, Not Methods! Detecting Tests Obsessed by Methods](https://andrehora.github.io/pub/2026-icpc-tests-obsessed-by-methods.pdf)
 - Jan, 2026, Most Influential Paper Award - [ICPC 2026](https://conf.researchr.org/track/icpc-2026/icpc-2026-mip-award): A Novel Approach for Estimating Truck Factors
