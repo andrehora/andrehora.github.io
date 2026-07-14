@@ -14,7 +14,7 @@ Previously, he was a postdoctoral researcher at DCC/UFMG, a software developer a
 - Jul, 2026, Paper accepted - ICSME 2026: [AI Policy, Disclosure, and Human in the Loop: How Are Contribution Guidelines Adapting to GenAI?](https://andrehora.github.io/pub/2026-icsme-ai-policy.pdf)
 - Jul, 2026, Paper accepted - ICSME 2026: [What's Inside a GitHub Repository? An Empirical Study on the Contents of 10K Projects](https://andrehora.github.io/pub/2026-icsme-github-content.pdf)
 - Jul, 2026, Paper accepted - ICSME 2026: [TestMiner: Software Testing Analysis for GitHub Repositories](https://andrehora.github.io/pub/2026-icsme-testminer.pdf)
-- Jul, 2026, Paper accepted - ICSME 2026: PSASpotter: A Tool to Detect the Usage of Platform-Specific APIs in Python
+- Jul, 2026, Paper accepted - ICSME 2026: [PSASpotter: A Tool to Detect the Usage of Platform-Specific APIs in Python](https://andrehora.github.io/pub/2026-icsme-psaspotter.pdf)
 - May, 2026, PC Member - [ASE 2026, Tool Demonstration Track](https://conf.researchr.org/home/ase-2026)
 - May, 2026, PC Member - VEM 2026, SBCARS 2026, SE4AS 2026, and SBQS 2026 
 - Apr, 2026, ACM SIGSOFT Distinguished Paper Award - MSR 2026: [Promises, Perils, and (Timely) Heuristics for Mining Coding Agent Activity](https://arxiv.org/pdf/2601.18345)
