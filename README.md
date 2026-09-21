@@ -18,7 +18,7 @@ Previously, he was a postdoctoral researcher at DCC/UFMG, a software developer a
 - Jul, 2026, Paper accepted - ICSME 2026: [PSASpotter: A Tool to Detect the Usage of Platform-Specific APIs in Python](https://andrehora.github.io/pub/2026-icsme-psaspotter.pdf)
 - May, 2026, Paper accepted - TOSEM: [Agentic Much? Adoption of Coding Agents on GitHub](https://andrehora.github.io/pub/2026-tosem-agentic-much.pdf)
 - May, 2026, PC Member - [ASE 2026, Tool Demonstration Track](https://conf.researchr.org/home/ase-2026)
-- May, 2026, PC Member - VEM 2026, SBCARS 2026, SE4AS 2026, and SBQS 2026 
+- May, 2026, PC Member - [VEM 2026](https://vemworkshop.github.io/vem2026), [SBCARS 2026](https://cbsoft.sbc.org.br/2026/en/symposiums/sbcars/call/), [SE4AS 2026](https://agents4good.github.io/se4as26-workshop), and [SBQS 2026](http://sbqs.sbc.org.br/2026) 
 - Apr, 2026, ACM SIGSOFT Distinguished Paper Award - MSR 2026: [Promises, Perils, and (Timely) Heuristics for Mining Coding Agent Activity](https://arxiv.org/pdf/2601.18345)
 - Apr, 2026, Best Early Research Achievements paper - ICPC 2026: [Test Behaviors, Not Methods! Detecting Tests Obsessed by Methods](https://andrehora.github.io/pub/2026-icpc-tests-obsessed-by-methods.pdf)
 - Jan, 2026, Most Influential Paper Award - [ICPC 2026](https://conf.researchr.org/track/icpc-2026/icpc-2026-mip-award): A Novel Approach for Estimating Truck Factors
