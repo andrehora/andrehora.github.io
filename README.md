@@ -76,9 +76,9 @@ See: [Google Scholar](https://scholar.google.com.br/citations?user=2fwfYtQAAAAJ&
 - 34th IEEE/ACM International Conference on Program Comprehension (ICPC 2026), ERA Track, Rio de Janeiro, Brazil
 - 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026), Demonstrations Track, Rio de Janeiro, Brazil
 - 14th Workshop on Software Visualization, Evolution and Maintenance (VEM 2026), São Paulo, Brazil
-- 20th Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS), São Paulo, Brazil
-- 1st Workshop on Software Engineering for Agentic Systems (SE4AS), São Paulo, Brazil
-- 25th Brazilian Symposium on Software Quality (SBQS), Maringá, Brazil
+- 20th Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS 2026), São Paulo, Brazil
+- 1st Workshop on Software Engineering for Agentic Systems (SE4AS 2026), São Paulo, Brazil
+- 25th Brazilian Symposium on Software Quality (SBQS 2026), Maringá, Brazil
 - 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025), Tool Demonstration Track, Seoul, South Korea
 - 13th Workshop on Software Visualization, Evolution and Maintenance (VEM 2025), Recife, Brazil
 - 34th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025), Tool Demonstrations Track, Trondheim, Norway
