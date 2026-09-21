@@ -11,6 +11,7 @@ Previously, he was a postdoctoral researcher at DCC/UFMG, a software developer a
 
 ## News
 
+- Sep, 2026, PC Member - [MSR 2027](https://2027.msrconf.org)
 - Jul, 2026, Paper accepted - ICSME 2026: [AI Policy, Disclosure, and Human in the Loop: How Are Contribution Guidelines Adapting to GenAI?](https://andrehora.github.io/pub/2026-icsme-ai-policy.pdf)
 - Jul, 2026, Paper accepted - ICSME 2026: [What's Inside a GitHub Repository? An Empirical Study on the Contents of 10K Projects](https://andrehora.github.io/pub/2026-icsme-github-content.pdf)
 - Jul, 2026, Paper accepted - ICSME 2026: [TestMiner: Software Testing Analysis for GitHub Repositories](https://andrehora.github.io/pub/2026-icsme-testminer.pdf)
@@ -70,6 +71,7 @@ See: [Google Scholar](https://scholar.google.com.br/citations?user=2fwfYtQAAAAJ&
 
 ## Program Committee
 
+- 24th IEEE/ACM International Conference on Mining Software Repositories (MSR 2027), Dublin, Ireland
 - ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026), Oakland, USA
 - 41th IEEE/ACM International Conference on Automated Software Engineering (ASE 2026), Tool Demonstration Track, Munich, Germany
 - 23th IEEE/ACM International Conference on Mining Software Repositories (MSR 2026), Rio de Janeiro, Brazil
