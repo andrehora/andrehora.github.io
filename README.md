@@ -60,6 +60,7 @@ Previously, he was a postdoctoral researcher at DCC/UFMG, a software developer a
 - ACM SIGSOFT Distinguished Paper Award - MSR 2026: [Promises, Perils, and (Timely) Heuristics for Mining Coding Agent Activity](https://arxiv.org/pdf/2601.18345)
 - Best Early Research Achievements paper - ICPC 2026: [Test Behaviors, Not Methods! Detecting Tests Obsessed by Methods](https://andrehora.github.io/pub/2026-icpc-tests-obsessed-by-methods.pdf)
 - Most Influential Paper Award - [ICPC 2026](https://conf.researchr.org/track/icpc-2026/icpc-2026-mip-award): A Novel Approach for Estimating Truck Factors
+- Research Productivity Grant (CNPq/PQ) - 2026
 - Research Productivity Grant (CNPq/PQ) - 2023
 - Best Master thesis - SBES/CBSoft 2023: Exploring Code Samples Characteristics and Their Impacts on Software Ecosystems
 - ACM SIGSOFT Distinguished Paper Award - MSR 2021: What Code Is Deliberately Excluded from Test Coverage and Why?
