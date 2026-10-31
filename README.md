@@ -11,6 +11,7 @@ Previously, he was a postdoctoral researcher at DCC/UFMG, a software developer a
 
 ## News
 
+- Oct, 2026, PC Member - [MSR 2027 Tools](https://2027.msrconf.org), [MSR 2027 Awards](https://2027.msrconf.org), and [ICSE 2027 Tools](https://conf.researchr.org/home/icse-2027)
 - Sep, 2026, PC Member - [MSR 2027](https://2027.msrconf.org)
 - Jul, 2026, Paper accepted - ICSME 2026: [AI Policy, Disclosure, and Human in the Loop: How Are Contribution Guidelines Adapting to GenAI?](https://andrehora.github.io/pub/2026-icsme-ai-policy.pdf)
 - Jul, 2026, Paper accepted - ICSME 2026: [What's Inside a GitHub Repository? An Empirical Study on the Contents of 10K Projects](https://andrehora.github.io/pub/2026-icsme-github-content.pdf)
@@ -72,10 +73,13 @@ See: [Google Scholar](https://scholar.google.com.br/citations?user=2fwfYtQAAAAJ&
 
 ## Program Committee
 
-- 24th IEEE/ACM International Conference on Mining Software Repositories (MSR 2027), Dublin, Ireland
+- 24th IEEE/ACM International Conference on Mining Software Repositories (MSR 2027), Technical Papers, Dublin, Ireland
+- 24th IEEE/ACM International Conference on Mining Software Repositories (MSR 2027), MSR Awards Committee, Dublin, Ireland
+- 24th IEEE/ACM International Conference on Mining Software Repositories (MSR 2027), Data and Tool Showcase Track, Dublin, Ireland
+- 49th IEEE/ACM International Conference on Software Engineering (ICSE 2029), Tool Demonstration and Data Showcase, Dublin, Ireland
 - ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026), Oakland, USA
 - 41th IEEE/ACM International Conference on Automated Software Engineering (ASE 2026), Tool Demonstration Track, Munich, Germany
-- 23th IEEE/ACM International Conference on Mining Software Repositories (MSR 2026), Rio de Janeiro, Brazil
+- 23th IEEE/ACM International Conference on Mining Software Repositories (MSR 2026), Technical Papers, Rio de Janeiro, Brazil
 - 34th IEEE/ACM International Conference on Program Comprehension (ICPC 2026), ERA Track, Rio de Janeiro, Brazil
 - 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026), Demonstrations Track, Rio de Janeiro, Brazil
 - 14th Workshop on Software Visualization, Evolution and Maintenance (VEM 2026), São Paulo, Brazil
@@ -85,15 +89,15 @@ See: [Google Scholar](https://scholar.google.com.br/citations?user=2fwfYtQAAAAJ&
 - 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025), Tool Demonstration Track, Seoul, South Korea
 - 13th Workshop on Software Visualization, Evolution and Maintenance (VEM 2025), Recife, Brazil
 - 34th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025), Tool Demonstrations Track, Trondheim, Norway
-- 22th IEEE/ACM International Conference on Mining Software Repositories (MSR 2025), Ottawa, Canada
+- 22th IEEE/ACM International Conference on Mining Software Repositories (MSR 2025), Technical Papers, Ottawa, Canada
 - 47th IEEE/ACM International Conference on Software Engineering (ICSE 2025), Demonstrations Track, Ottawa, Canada
 - ISSTA/ECOOP 2024, Tool Demonstrations Track, Vienna, Austria
-- 21th IEEE/ACM International Conference on Mining Software Repositories (MSR 2024), Lisbon, Portugal
+- 21th IEEE/ACM International Conference on Mining Software Repositories (MSR 2024), Technical Papers, Lisbon, Portugal
 - 31th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2024), ERA Track, Rovaniemi, Finland
-- 19th IEEE/ACM International Conference on Mining Software Repositories (MSR 2022), Pittsburgh, USA
+- 19th IEEE/ACM International Conference on Mining Software Repositories (MSR 2022), Technical Papers, Pittsburgh, USA
 - 9th Workshop on Software Visualization, Evolution and Maintenance (VEM 2021), online
 - 37th IEEE International Conference on Software Maintenance and Evolution (ICSME 2021), Luxembourg City, Luxembourg
-- 18th IEEE/ACM International Conference on Mining Software Repositories (MSR 2021), Madrid, Spain
+- 18th IEEE/ACM International Conference on Mining Software Repositories (MSR 2021), Technical Papers, Madrid, Spain
 - 35th Brazilian Symposium on Software Engineering (SBES 2021), Joinville, Brazil
 - 36th IEEE International Conference on Software Maintenance and Evolution (ICSME 2020), Adelaide, Australia
 - 20th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM 2020), Engineering Track, Adelaide, Australia
@@ -102,7 +106,7 @@ See: [Google Scholar](https://scholar.google.com.br/citations?user=2fwfYtQAAAAJ&
 - 8th Workshop on Thesis and Dissertations of CBSoft (WTDSoft 2020), Natal, Brazil
 - 28th International Conference on Program Comprehension (ICPC 2020), Tool Track, Seoul, South Korea
 - 19th International Conference on Software and Systems Reuse (ICSR 2020), Hammamet, Tunisia
-- 17th IEEE/ACM International Conference on Mining Software Repositories (MSR 2020), Seoul, South Korea
+- 17th IEEE/ACM International Conference on Mining Software Repositories (MSR 2020), Technical Papers, Seoul, South Korea
 - 27th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2020), ERA Track, London, Canada
 - 23rd Ibero-American Conference on Software Engineering (CIbSE 2020), Curitiba, Brazil
 - 35th IEEE International Conference on Software Maintenance and Evolution (ICSME 2019), Short Papers Track, Cleveland, USA
