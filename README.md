@@ -76,7 +76,7 @@ See: [Google Scholar](https://scholar.google.com.br/citations?user=2fwfYtQAAAAJ&
 - 24th IEEE/ACM International Conference on Mining Software Repositories (MSR 2027), Technical Papers, Dublin, Ireland
 - 24th IEEE/ACM International Conference on Mining Software Repositories (MSR 2027), MSR Awards Committee, Dublin, Ireland
 - 24th IEEE/ACM International Conference on Mining Software Repositories (MSR 2027), Data and Tool Showcase Track, Dublin, Ireland
-- 49th IEEE/ACM International Conference on Software Engineering (ICSE 2029), Tool Demonstration and Data Showcase, Dublin, Ireland
+- 49th IEEE/ACM International Conference on Software Engineering (ICSE 2027), Tool Demonstration and Data Showcase, Dublin, Ireland
 - ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026), Oakland, USA
 - 41th IEEE/ACM International Conference on Automated Software Engineering (ASE 2026), Tool Demonstration Track, Munich, Germany
 - 23th IEEE/ACM International Conference on Mining Software Repositories (MSR 2026), Technical Papers, Rio de Janeiro, Brazil
